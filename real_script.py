@@ -1,4 +1,4 @@
-import docx
+import docx #installed with pip
 import re
 doc = docx.Document("doc.docx")
 
